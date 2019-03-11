@@ -6,6 +6,7 @@ My version of code implemented in the [TICR](https://github.com/nstenz/TICR) 'ge
 
 
 ## Scripts
+
 ''''
 annotateBranches.py   - Annotates branches from input treefile with coal units calculated from CFs
 duplicate_quartets.py - Prints duplicated quartets in a CF file
