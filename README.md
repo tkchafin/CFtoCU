@@ -1,8 +1,16 @@
 # CFtoCU
 Scripts to scale branch lengths of a tree to coalescent units, given a table of concordance factors
 
-My version of code implemented in the [TICR](https://github.com/nstenz/TICR) 'getTreeBranchLengths.R' script
+My version of code implemented in Noah Stenz's [TICR](https://github.com/nstenz/TICR) 'getTreeBranchLengths.R' script
 
+If you use this, you should cite the following:
+* Stenz et al (2015).
+  Exploring tree-like and non-tree-like patterns using genome sequences:
+  An example using the inbreeding plant species *Arabidopsis thaliana* (L.) Heynh.
+  Systematic Biology, 64(5):809-823.
+  [doi: 10.1093/sysbio/syv039](https://doi.org/10.1093/sysbio/syv039)
+* Allman E.S. Degnan J.H. Rhodes J.A. 2011. Identifying the rooted species tree from the distribution  
+  of unrooted gene trees under the coalescent. J. Math. Biol. 62:833–862.
 
 
 ## Scripts
