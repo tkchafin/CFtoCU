@@ -1,7 +1,7 @@
 # CFtoCU
 Scripts to scale branch lengths of a tree to coalescent units, given a table of concordance factors
 
-My version of code implemented in Noah Stenz's [TICR](https://github.com/nstenz/TICR) 'getTreeBranchLengths.R' script
+This is my version of code implemented in Noah Stenz's [TICR](https://github.com/nstenz/TICR) 'getTreeBranchLengths.R' script
 
 If you use this, you should cite the following:
 * Stenz et al (2015).
